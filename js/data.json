@@ -1,0 +1,67 @@
+[
+  
+  {
+    "name":"Jonathan G. Ferrar II",
+    "shortname":"Jonathan_Ferrar",
+    "reknown":"Artist to Watch in 2012",
+    "bio":"The Artist to Watch in 2012 by the London Review, Johnathan has already sold one of the highest priced-commissions paid to an art student, ever on record. The piece, entitled Gratitude Resort, a work in oil and mixed media, was sold for $750,000 and Jonathan donated all the proceeds to Art for Peace, an organization that provides college art scholarships for creative children in developing nations"
+  },
+  {
+    "name":"Hillary Hewitt Goldwynn-Post",
+    "shortname":"Hillary_Goldwynn",
+    "reknown":"New York University",
+    "bio":"Hillary is a sophomore art sculpture student at New York University, and has already won all the major international prizes for new sculptors, including the Divinity Circle, the International Sculptor's Medal, and the Academy of Paris Award. Hillary's CAC exhibit features 25 abstract watercolor paintings that contain only water images including waves, deep sea, and river."
+  },
+  {
+  	"name": "Bill Gates",
+	"shortname": "Bill_Gates",
+	"reknown": "Founder of Microsoft",
+	"bio": "Bill Gates is the founder of Microsoft, responsible for creating and operating the world’s most used Operating system ever, Windows 10. He stayed the world’s richest man for a number of years owing to the great success of his company. Till date, Microsoft Windows remains the world’s most popular and heavily used operating system ever built."
+  },  
+
+  {
+  	"name": "Steve Jobs",
+	"shortname": "Steve_Jobs",
+	"reknown": "Founder of Apple",
+	"bio": "Steve Jobs is the founder of Apple, responsible for creating and operating the one of the world’s most used and liked phone, Iphone. He is worshipped as many for being the guy who changed the face of mobile phones. He always stayed in the news for his extremely bumpy but storied career. His entrepreneurship ideas and beliefs has inspired many other to build startups and he still is an inspiration for many as the guy who started his extremely successful firm from a garage."
+  },
+  {
+  	"name": "Mark Zuckerberg",
+	"shortname": "Mark_Zuckerberg",
+	"reknown": "Founder of Facebook",
+	"bio": " Mark Zuckerberg is the founder of Facebook, the world’s most renowned social networking site. He has changed and revolutionized the way people communicate with each other. He has remained as a famous personality for being the guy who created facebook during his college days. His life has also been incorporated as a movie, “The Social Network”. The acquisition of Skype by Facebook still remains as one of the biggest ever to come into light. He has inspired many of the present day youth to think outside the box and follow their dream and passion."
+
+  },
+  {
+		"name": "Jeff Bezos",
+		"shortname": "Jeff_Bezos",
+		"reknown": "Founder of Amazon",
+		"bio": " Jeff Bezos is the founder of Amazon, the world’s most renowned e-shopping portal. He has changed the way people shop their needs. His idea of creating a super effective and well connected e-shopping portal has made the lives of billions of people around the globe easy and simple. It has enabled people to order what they wish for sitting in the comfort of their couch with just a few clicks. He has been in the world’s richest entrepreneurs for a long time now."
+
+  },
+  {
+  	"name": "Larry Page",
+	"shortname": "Larry_Page",
+	"reknown": "Founder of Google",
+	"bio": " Larry Page is one of the founder of Google, the world’s most popular search engine. His idea is responsible for revolutionizing the entire Internet. People now do not have to go to hefty and a lots of books to get answers to their queries, rather just ask Google. Google is even responsible for today’s most used mobile OS, the Android used all around the globe by billions. Google is not only famous as a brand but is also very popular for its extremely casual and employee-friendly work environment."
+
+
+  },
+  {
+  	"name": "Enzo Ferrari",
+	"shortname": "Enzo_Ferrari",
+	"reknown": "Founder of Ferrari",
+	"bio": " Enzo Ferrari is the founder of Ferrari, renowned for its high-end sports cars. He himself being a race driver was very instrumental is bringing the brand Ferrari to where it is now. The cars designed by Ferrari are sold for millions of dollars and are definitely worth the price. They feature in several races and wealthy individuals from all around the globe consider having a Ferrari as a symbol of status. The cars are designed to be both fast as well as providing the luxury that the driver deserves. They are equipped with the latest technologies to make the life of the driver most comfortable."
+  },
+
+  {
+  	"name": " Ferruccio Lamborghini",
+	"shortname": "Ferruccio_Lamborghini",
+	"reknown": "Founder of Lamborghini",
+	"bio": " Ferruccio Lamborghini is the founder of Ferruccio Lamborghini, renowned for its high-end sports cars like its age-old rival, the Ferrari. His tiff with Enzo Ferrari over cars has been a famous one which supposedly led him to design fast race cars like Ferrari, calling them the Lamborghinis. He used to be in the business of building tractors. Like its rival, it’s a high-end sports car with all the latest technologies, great style and great comfort level for its drivers."
+
+
+  }
+
+  
+]
